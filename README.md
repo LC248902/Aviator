@@ -108,4 +108,4 @@ src/components/Game/
 3. Place a bet and start playing!
 4. Try to cash out before the game crashes to win
 
-The game provides an exciting, fast-paced betting experience with real-time decision making and visual feedback. rita
+The game provides an exciting, fast-paced betting experience with real-time decision making and visual feedback. 202608251148
